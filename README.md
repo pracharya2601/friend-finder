@@ -27,8 +27,10 @@ https://nodejs.org/en/download/
 https://www.mysql.com/downloads/
 <li>In your terminal navigate to your specified folder, type the following to install all required packages listed in package.json:</li>
 <code> npm install</code>
-<li>In your terminal navigate to db folder, type the following add database to MySql</li>
+<li>In your terminal navigate to db folder, type the following to run MySql</li>
 <code> mysql - u root p(password)</code><p>where password is the password of your MySql database</p>
+<li>Source database into your MySQL using terminal command</li>
+<code> source schema.sql</code>
 <li>Go to <code>connection.js</code> file and put the password on password field</li>
 <code>node server.js</code>
 <li>Start the server by writing in terminal:</li>
