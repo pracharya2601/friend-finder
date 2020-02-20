@@ -1,0 +1,66 @@
+
+h1, h3 {
+	color: blue;
+}
+
+.questions {
+	color: purple;
+}
+
+.offset-s3, #icon_prefix_name {
+	color: red;
+}
+
+.notShown {
+	color: green;
+}
+
+#img1 { 
+	position: absolute;
+}
+
+#goBack:hover {
+	color: black;
+	text-decoration: underline;
+}
+
+#img2 { 
+	position: absolute;
+	right: 0px;
+}
+
+.browser-default {
+	background-color: rgb(88, 82, 82, 0.3);
+}
+
+p { 
+	color: rgb(72, 73, 73);
+}
+
+
+#match { 
+	color: teal;
+	text-decoration: blue underline;
+}
+
+#imgMatch {
+	border-radius: 10px;
+}
+
+.bottom-item {
+	padding: 10px 0 20px 0;
+}
+
+.footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+	padding: 20px;
+}
+.page-footer-1 {
+    position: absolute;
+    bottom: 0;
+	width: 100%;
+	padding: 20px;
+
+}
