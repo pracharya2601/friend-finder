@@ -1,5 +1,6 @@
 # friend-finder
-
+<a href="https://friend-finder-app-01.herokuapp.com/">Checkout friendfinder app</a>
+<hr />
 <h1>Overview</h1>
 <p>
 Friend finder is an app that matches new person with people from database. New user should answer 10 questions. The app with MySQL queries compare every answer of new user with every answer of every user in database and canculate best match.
